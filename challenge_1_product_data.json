@@ -1,0 +1,150 @@
+{
+    "10000": {
+        "id": "10000",
+        "name": "Cherry Blossom 3D Greeting Card",
+        "type": "Greeting Card",
+        "price": "1300",
+        "tags": [
+            "mothers day",
+            "sympathy",
+            "romantic",
+            "every day",
+            "tree",
+            "floral"
+        ]
+    },
+    "10001": {
+        "id": "10001",
+        "name": "Christmas Fun 5 Pack",
+        "type": "Card Pack",
+        "price": "4900",
+        "tags": [
+            "holiday",
+            "card-pack",
+            "christmas"
+        ]
+    },
+    "10002": {
+        "id": "10002",
+        "name": "Santa Biker T-Shirt",
+        "type": "T-Shirt",
+        "price": "2000",
+        "tags": [
+            "holiday",
+            "christmas",
+            "t-shirt",
+            "apparel",
+            "santa"
+        ]
+    },
+    "10003": {
+        "id": "10003",
+        "name": "Release the Kraken T-Shirt",
+        "type": "T-Shirt",
+        "price": "2000",
+        "tags": [
+            "dad",
+            "birthday",
+            "t-shirt",
+            "apparel",
+            "kraken"
+        ]
+    },
+    "10004": {
+        "id": "10004",
+        "name": "X-wing Starfighter™",
+        "type": "Greeting Card",
+        "price": "1500",
+        "tags": [
+            "birthday",
+            "every day",
+            "licensed",
+            "star wars",
+            "fathers day"
+        ]
+    },
+    "10005": {
+        "id": "10005",
+        "name": "Happy Birthday Cake",
+        "type": "Greeting Card",
+        "price": "1300",
+        "tags": [
+            "birthday"
+        ]
+    },
+    "10006": {
+        "id": "10006",
+        "name": "The Beatles Yellow Submarine",
+        "type": "Greeting Card",
+        "price": "1500",
+        "tags": [
+            "mothers day",
+            "fathers day",
+            "birthday",
+            "licensed",
+            "every day",
+            "music"
+        ]
+    },
+    "10007": {
+        "id": "10007",
+        "name": "Christmas Bear",
+        "type": "Greeting Card",
+        "price": "1300",
+        "tags": [
+            "holiday",
+            "christmas",
+            "animal",
+            "bear"
+        ]
+    },
+    "10008": {
+        "id": "10008",
+        "name": "Santa Biker",
+        "type": "Greeting Card",
+        "price": "1300",
+        "tags": [
+            "holiday",
+            "christmas",
+            "santa",
+            "dad"
+        ]
+    },
+    "10009": {
+        "id": "10009",
+        "name": "Release the Kraken",
+        "type": "Greeting Card",
+        "price": "1300",
+        "tags": [
+            "birthday",
+            "boat",
+            "animal",
+            "dad",
+            "fathers day",
+            "kraken"
+        ]
+    },
+    "10010": {
+        "id": "10010",
+        "name": "Star Wars Series I Collector's Edition 5 Pack",
+        "type": "Card Pack",
+        "price": "7500",
+        "tags": [
+            "holiday",
+            "card-pack",
+            "birthday",
+            "star wars",
+            "licensed"
+        ]
+    },
+    "10011": {
+        "id": "10011",
+        "name": "Lovepop Note 5 pack",
+        "type": "Accessories",
+        "price": "500",
+        "tags": [
+            "accessory",
+            "stationery"
+        ]
+    }
+}

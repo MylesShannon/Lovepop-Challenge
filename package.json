@@ -1,0 +1,31 @@
+{
+  "name": "lovepop-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MylesShannon/Lovepop-Challenge.git"
+  },
+  "author": "Myles Shannon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MylesShannon/Lovepop-Challenge/issues"
+  },
+  "homepage": "https://github.com/MylesShannon/Lovepop-Challenge#readme",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "dependencies": {
+    "prettyjson": "*",
+    "uniqid": "*"
+  }
+}
